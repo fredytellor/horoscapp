@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HoroscApp</string>
+    <!--Bottom bar menu-->
+    <string name="menu_item_horoscope">Horoscope</string>
+    <string name="menu_item_palm">Palmistry</string>
+    <string name="menu_item_luck">Luck</string>
+</resources>
